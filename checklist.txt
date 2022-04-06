@@ -1,0 +1,6 @@
+npm i expo-permissions expo-notifications expo-linking firebase moment react-native-gifted-chat crane-query-builder 
+expo-file-system expo-sqlite reactotron-react-native redux-firestore redux react-redux-firebase expo-font 
+expo-splash-screen expo-image-picker expo-firebase-analytics react-native-tags @react-native-community/datetimepicker 
+react-native-gesture-handler react-native-multiple-select react-redux native-base react-native-fit-image 
+react-native-draggable-view expo-intent-launcher base-64 redux-thunk react-navigation react-navigation-stack react-navigation-tabs
+expo-linear-gradient react-native-reanimated react-native-screens react-native-get-random-values

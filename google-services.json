@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "918392978690",
+    "firebase_url": "https://packager-1357e.firebaseio.com",
+    "project_id": "packager-1357e",
+    "storage_bucket": "packager-1357e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918392978690:android:cadd9891db7c478acf961b",
+        "android_client_info": {
+          "package_name": "com.groupmeet.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918392978690-q23oauvb1ad8gcv25m6bro5h9r7rk0of.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groupmeet.app",
+            "certificate_hash": "78dab13af608c62fbade4ba9dd0e575e11dcda20"
+          }
+        },
+        {
+          "client_id": "918392978690-47fr9vluuoibendefke83rt701abcf80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSDS1_iESmr5b3PNr4l6pHztWruyAUiEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918392978690-47fr9vluuoibendefke83rt701abcf80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
